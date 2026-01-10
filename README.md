@@ -35,8 +35,7 @@ You need a [C / C++] compiler (like GCC or G++) installed on your machine.
 
 1.  **Clone the repository**
     ```bash
-    git clone (https://github.com/azzian669/BlackJack.git)
-    cd blackjack-console
+    https://github.com/azzian669/BlackJack.git
     ```
 
 2.  **Compile the code**
