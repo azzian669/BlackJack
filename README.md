@@ -10,5 +10,5 @@ A text-based implementation of the classic casino game **Blackjack**, developed 
 * **Win/Loss Evaluation:** Algorithms to instantly determine the winner based on card values, including "Bust" and "Blackjack" scenarios.
 
 ### Tech Stack
-* **Language:** C / C++ (Sesuaikan dengan bahasanya)
+* **Language:** C 
 * **Core Concepts:** Arrays, Pointers, Conditional Logic, Random Number Generation (RNG).
