@@ -42,7 +42,7 @@ int main() {
     initializeDeck(deck);
     shuffleDeck(deck, 52);
 
-    printf("Welcome to Blackjack (FP Version)!\n");
+    printf("Welcome to Blackjack!\n");
     printf("=================================\n\n");
 
     while (52 - deckTop >= 4) {
@@ -265,4 +265,5 @@ void printHand(const char* title, Card hand[], int cardCount) {
 
 bool checkBust(int total, int target) {
     return total > target;
+
 }
