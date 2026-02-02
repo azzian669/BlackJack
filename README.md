@@ -12,10 +12,10 @@ The player competes against an automated "Dealer" bot that strictly adheres to r
 
 ##  Key Features
 
-* ** Smart Dealer Logic:** The dealer is programmed to make decisions automatically (e.g., hitting on soft 16, standing on 17) without user intervention.
-* ** Dynamic Deck System:** Simulates a real deck of cards using Random Number Generation (RNG) to ensure fair probability and non-repetitive draws.
-* ** Betting Mechanics:** Includes a virtual economy system where users can place bets, track their balance, and manage risk across multiple rounds.
-* ** Win/Loss Evaluation:** precise algorithms to instantly evaluate "Blackjack", "Bust", "Push", and standard win conditions.
+* **Smart Dealer Logic:** The dealer is programmed to make decisions automatically (e.g., hitting on soft 16, standing on 17) without user intervention.
+* **Dynamic Deck System:** Simulates a real deck of cards using Random Number Generation (RNG) to ensure fair probability and non-repetitive draws.
+* **Betting Mechanics:** Includes a virtual economy system where users can place bets, track their balance, and manage risk across multiple rounds.
+* **Win/Loss Evaluation:** precise algorithms to instantly evaluate "Blackjack", "Bust", "Push", and standard win conditions.
 
 ##  Tech Stack
 
