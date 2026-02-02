@@ -1,6 +1,6 @@
 # Console Blackjack Simulation ♠️
 
-> A robust, text-based implementation of the classic casino game, developed to demonstrate mastery of fundamental programming logic, state management, and algorithm design in [C / C++].
+> A robust, text-based implementation of the classic casino game, developed to demonstrate mastery of fundamental programming logic, state management, and algorithm design in [C].
 
 ---
 
@@ -19,7 +19,7 @@ The player competes against an automated "Dealer" bot that strictly adheres to r
 
 ##  Tech Stack
 
-* **Language:** [C / C++]
+* **Language:** [C ]
 * **Core Concepts:**
     * Multi-dimensional Arrays & Pointers
     * Structs / Classes for Card & Player Management
@@ -33,28 +33,18 @@ You need a [C ] compiler (like GCC or G++), online c complier will do.
 
 ### Installation & Run
 
-1.  **Clone the code**
-    ```bash
-    https://github.com/azzian669/BlackJack.git
-    ```
-
-2.    open the c online complire:
-    ```bash
-   paste the code
-    ```
-
-3.  **Run the game**
-    ```bash
-    enjoy the game
-    ```
+   1. Copy the entire content of Main.c.
+   2. Go to OnlineGDB or a similar site.
+   3. Delete the default code and paste yours.
+   4. Click Run.
 
 ##  How to Play
 
 1.  **Place your bet:** Enter the amount of virtual chips you want to wager.
 2.  **Initial Deal:** You and the dealer will receive two cards. One of the dealer's cards remains hidden.
 3.  **Make your move:**
-    * Type `H` to **Hit** (take another card).
-    * Type `S` to **Stand** (hold your current hand).
+    * Type `Y` to **Hit** (take another card).
+    * Type `N` to **Stand** (hold your current hand).
 4.  **Dealer's Turn:** The dealer will reveal their card and play according to the rules.
 5.  **Result:** The winner is declared, and chips are updated.
 
