@@ -29,28 +29,23 @@ The player competes against an automated "Dealer" bot that strictly adheres to r
 ##  Getting Started
 
 ### Prerequisites
-You need a [C / C++] compiler (like GCC or G++) installed on your machine.
+You need a [C ] compiler (like GCC or G++), online c complier will do.
 
 ### Installation & Run
 
-1.  **Clone the repository**
+1.  **Clone the code**
     ```bash
     https://github.com/azzian669/BlackJack.git
     ```
 
-2.  **Compile the code**
-    For C++:
+2.    open the c online complire:
     ```bash
-    g++ main.cpp -o blackjack
-    ```
-    For C:
-    ```bash
-    gcc main.c -o blackjack
+   paste the code
     ```
 
 3.  **Run the game**
     ```bash
-    ./blackjack
+    enjoy the game
     ```
 
 ##  How to Play
