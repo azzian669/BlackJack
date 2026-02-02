@@ -10,14 +10,14 @@ This project is a simulation of **Blackjack** that runs entirely in the console.
 
 The player competes against an automated "Dealer" bot that strictly adheres to real-world casino rules, offering a realistic probability experience.
 
-## 🚀 Key Features
+##  Key Features
 
-* **🧠 Smart Dealer Logic:** The dealer is programmed to make decisions automatically (e.g., hitting on soft 16, standing on 17) without user intervention.
-* **🔀 Dynamic Deck System:** Simulates a real deck of cards using Random Number Generation (RNG) to ensure fair probability and non-repetitive draws.
-* **💰 Betting Mechanics:** Includes a virtual economy system where users can place bets, track their balance, and manage risk across multiple rounds.
-* **🏆 Win/Loss Evaluation:** precise algorithms to instantly evaluate "Blackjack", "Bust", "Push", and standard win conditions.
+* ** Smart Dealer Logic:** The dealer is programmed to make decisions automatically (e.g., hitting on soft 16, standing on 17) without user intervention.
+* ** Dynamic Deck System:** Simulates a real deck of cards using Random Number Generation (RNG) to ensure fair probability and non-repetitive draws.
+* ** Betting Mechanics:** Includes a virtual economy system where users can place bets, track their balance, and manage risk across multiple rounds.
+* ** Win/Loss Evaluation:** precise algorithms to instantly evaluate "Blackjack", "Bust", "Push", and standard win conditions.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Language:** [C / C++]
 * **Core Concepts:**
@@ -26,7 +26,7 @@ The player competes against an automated "Dealer" bot that strictly adheres to r
     * Control Flow & State Machines
     * Random Number Generation (RNG)
 
-## 💻 Getting Started
+##  Getting Started
 
 ### Prerequisites
 You need a [C / C++] compiler (like GCC or G++) installed on your machine.
@@ -53,7 +53,7 @@ You need a [C / C++] compiler (like GCC or G++) installed on your machine.
     ./blackjack
     ```
 
-## 🎮 How to Play
+##  How to Play
 
 1.  **Place your bet:** Enter the amount of virtual chips you want to wager.
 2.  **Initial Deal:** You and the dealer will receive two cards. One of the dealer's cards remains hidden.
@@ -63,14 +63,14 @@ You need a [C / C++] compiler (like GCC or G++) installed on your machine.
 4.  **Dealer's Turn:** The dealer will reveal their card and play according to the rules.
 5.  **Result:** The winner is declared, and chips are updated.
 
-## 💡 What I Learned
+##  What I Learned
 
 Building this project helped solidify my understanding of:
 * **Algorithmic Thinking:** Breaking down complex game rules into executable logical steps.
 * **Memory Management:** Handling arrays efficiently to represent a deck of cards.
 * **Edge Case Handling:** Ensuring the game doesn't crash on invalid inputs or rare card combinations (like Ace being 1 or 11).
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 * Implement a "Split" and "Double Down" feature.
 * Add a GUI using a simple graphics library.
